@@ -62,3 +62,25 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 ## 📜 License
 This project is open-source and available under the MIT License.
+# Screenshots
+
+## Home Page
+![Home](screenshots/home.png)
+
+## Form Page 1
+![Page1](screenshots/page1.png)
+
+## Form Page 2
+![Page2](screenshots/page2.png)
+
+## Form Page 3
+![Page3](screenshots/page3.png)
+
+## Result Screen 1
+![Result1](screenshots/result1.png)
+
+## Result Screen 2
+![Result2](screenshots/result2.png)
+
+## Result Screen 3
+![Result3](screenshots/result3.png)
