@@ -1,3 +1,11 @@
+<img width="1280" height="738" alt="result3" src="https://github.com/user-attachments/assets/11beefea-390c-4998-86da-fdb5a3695cdd" />
+<img width="1280" height="738" alt="result2" src="https://github.com/user-attachments/assets/26855513-99bb-4230-b42d-4144b59481d4" />
+<img width="1280" height="738" alt="result1" src="https://github.com/user-attachments/assets/c0298421-7510-4743-adc8-f3c71bcb082d" />
+<img width="1280" height="738" alt="page3" src="https://github.com/user-attachments/assets/49d23947-adc1-4886-9bc3-38876053854d" />
+<img width="1280" height="738" alt="page2" src="https://github.com/user-attachments/assets/ecf0cf66-e102-448e-a393-cf8ec32cacaa" />
+<img width="1280" height="738" alt="page1" src="https://github.com/user-attachments/assets/abe91026-361c-4df2-9704-7fe8d5380226" />
+<img width="1280" height="803" alt="home" src="https://github.com/user-attachments/assets/6fd71a32-4307-4952-a47d-f56e9a89db9f" />
+<img width="1280" height="803" alt="home" src="https://github.com/user-attachments/assets/d24edc1c-836d-4a14-a87e-67413cba6e12" />
 # 🎯 Interview Readiness Score
 
 An AI-powered web application that evaluates your job hunt readiness across 4 critical pillars: **Technical Skills**, **Resume Quality**, **Communication**, and **Portfolio**. Built with React and powered by the **Google Gemini 2.0 Flash** API.
